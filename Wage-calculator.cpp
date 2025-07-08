@@ -1,6 +1,9 @@
 #include <iostream>
 #include <iomanip>  // for std::setprecision and std::fixed
 
+// Compile and test
+// g++ Wage-calculator.cpp && ./a.out < <(echo " 2 777") && ./rm ./a.out
+
 using namespace std;
 
 int main() {
